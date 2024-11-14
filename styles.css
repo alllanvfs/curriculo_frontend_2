@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 214, 149);
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    text-align: center;
+}
+
+#nome_titulo{
+    color: rgb(91, 25, 25);
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#img_allan{
+    text-align: center;
+}
+
+.sub_titulo{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    text-align: center;
+}
+
+.sub_educacao{
+    font-style: oblique;
+    text-decoration: underline;
+    color:rgb(118, 69, 40);
+}
+
+a{
+    color: rgb(255, 0, 0);
+}
+a:hover{
+    color: rgb(43, 0, 255);
+}
+
+
